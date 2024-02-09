@@ -1,6 +1,20 @@
 <h1>Hi There, I'm Surbhi Haldar <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
+
+![giphy](https://github.com/sur-123-bhi/sur-123-bhi/assets/129533897/7be993c6-b609-4f7d-8f49-b465389c2b43)
+
 I'm a Software Development Trainee at [Masai School](https://www.masaischool.com/). My day to day work revolves around building responsive Web Applications for various interesting problems and deploying them. I'm open to collaborate on interesting projects.
+
+<br>
+<br>
+
+I have developed some responsive web applications during Masai journey.
+All of my work available at my <a href="https://sur-123-bhi.github.io/">Portfolio</a>
+
+
+
+![Screenshot (433)](https://github.com/sur-123-bhi/sur-123-bhi/assets/129533897/a083ccda-ef4e-4d1d-ad6f-b0f45e745fd0)
+
 
 ## Skill Set :muscle:
 
@@ -29,6 +43,6 @@ These are some of the major technologies that I use or have worked on in the pas
 <br>
 
 ## Let's Connect :handshake:
+<p><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="15">  haldarsurbhi@gmail.com</p>
 
-<a href="https://www.linkedin.com/in/surbhi-haldar/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="haldarsurbhi"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40"></a>
-|--|--|
+<a href="https://www.linkedin.com/in/surbhi-haldar/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>

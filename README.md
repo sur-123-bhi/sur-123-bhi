@@ -43,6 +43,6 @@ These are some of the major technologies that I use or have worked on in the pas
 <br>
 
 ## Let's Connect :handshake:
-<p><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="15">  haldarsurbhi@gmail.com</p>
+<p><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="20" height="-100">  haldarsurbhi@gmail.com</p>
 
-<a href="https://www.linkedin.com/in/surbhi-haldar/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
+<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="20" height="-100">   <a href="https://www.linkedin.com/in/surbhi-haldar/">surbhi-haldar</a>

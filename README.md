@@ -48,3 +48,19 @@ These are some of the major technologies that I use or have worked on in the pas
 <p><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="20" height="-100">  haldarsurbhi@gmail.com</p>
 
 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="20" height="-100">   <a href="https://www.linkedin.com/in/surbhi-haldar/">surbhi-haldar</a>
+<br>
+<br>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sur-123-bhi&show_icons=true&locale=en&layout=compact&theme=radical" alt="sur-123-bhi" />
+</p>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sur-123-bhi&show_icons=true&theme=radical" alt="sur-123-bhi" />
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sur-123-bhi&theme=radical" alt="sur-123-bhi" />
+</p>
+
+<br>
+<br>

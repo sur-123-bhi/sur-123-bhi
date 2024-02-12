@@ -12,9 +12,11 @@ I have developed some responsive web applications during Masai journey.
 All of my work available at my <a href="https://sur-123-bhi.github.io/">Portfolio</a>
 
 
+## Projects
 
-![Screenshot (433)](https://github.com/sur-123-bhi/sur-123-bhi/assets/129533897/a083ccda-ef4e-4d1d-ad6f-b0f45e745fd0)
-
+- 🔭 My Masai 5th unit collaborative project based on React: [Samrat Hospital](https://c-sharp-samrat.vercel.app/)
+- 🔭 My Masai 4th unit collaborative project based on HTML+CSS+JavaScript: [Travel Tribe](https://velvety-maamoul-e37b50.netlify.app/)
+- 🔭 My Masai 3rd unit collaborative project based on HTML/CSS/Sass: [Figma Design](https://bounty-invention-713.netlify.app/)
 
 ## Skill Set :muscle:
 

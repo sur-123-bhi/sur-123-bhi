@@ -17,8 +17,8 @@
 
   <p align="center">🌱 I’m currently learning <strong>Data Structure & Algorithm</strong> and <strong>MERN Stack</strong>.</p>
   <p align="center"> 📫 You can reach out to me: <strong>haldarsurbhi@gmail.com</strong></p>
-  <p align="center">👨‍💻 All of my projects are available at <a href="https://sur-123-bhi.github.io/">Portfolio</a></p>
-  <p align="center">📄 Know about my experiences <a href="https://drive.google.com/file/d/10wXWroxqTdx4dSzbTu4L7GRcBEJFdFJc/view?usp=sharing">Resume</a></p>
+  <p align="center">👨‍💻 All of my projects are available at <a href="https://sur-123-bhi.github.io/" target="_blank">Portfolio</a></p>
+  <p align="center">📄 Know about my experiences <a href="https://drive.google.com/file/d/10wXWroxqTdx4dSzbTu4L7GRcBEJFdFJc/view?usp=sharing" target="_blank">Resume</a></p>
 
 <br>
 <h2 align="center">Projects:</h2>
